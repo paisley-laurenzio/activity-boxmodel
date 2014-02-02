@@ -20,6 +20,7 @@ html {
     
     font-size: 100%;
     font-family: Ariel, Helvetica,sans-serif;
+    background-color: #CCFCFF;
 }
 
 img {
@@ -33,12 +34,13 @@ body {
 }
 
 .masterhead {
-    background-color: #99FFFF;
+    background-color: #0BD6D6;
     overflow: hidden;
+    
 }
 
 .logo {
-    height: 6rem;
+    height: 8rem;
     width: auto;
     margin: .5rem 5%;
 }
@@ -57,7 +59,7 @@ h1 {
 
 h1+p {
     font-size: 1.25rem;
-    font-weight: bold;
+    font-weight: lighter;
 }
 
 p {
@@ -76,7 +78,7 @@ figcaption {
 }
 
 footer {
-    background-color: #99FFFF;
+    background-color: #0BD6D6;
     overflow: hidden;
 }
 
